@@ -36,6 +36,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For inquiries and collaboration:
-- **Email:** vruthvikyadav1348@gmail.com
-- **GitHub:** https://github.com/Vruthvik48
+- **Email:** pavithrahn56@gmail.com
+- **GitHub:** https://github.com/Pavihn48
 
